@@ -43,7 +43,8 @@ This project is open-source and available under the ..... (here only).
 ## Author
 
 Prateek Negi
-
+prateeknegi21@gmail.com
+7060199614
 ---
 
 **Note:** This README provides an overview of the project, its features, technologies used, and how to use it. You can customize it with your own information and details.
